@@ -1,4 +1,4 @@
-# API REST CRUD Y AUTENTICACION DE USUARIOS
+# API REST CRUD Y AUTENTICACIóN DE USUARIOS
 
 _Es una pequeña API que permite añadir, modificar y eliminar usuarios, ademas cuenta con un sistema de autenticación permitiendo realizar accciones intrínsecas según el rol._
 
