@@ -1,5 +1,4 @@
 const mongoose = require('mongoose');
-const uniqueValidator = require('mongoose-unique-validator');
 
 
 let rolesValidos = {
@@ -27,7 +26,8 @@ let usuarioSchema = new Schema({
     },
     img: {
         type: String,
-        required: false
+        required: false,
+        default: 'img.png'
     },
     role: {
         type: String,
