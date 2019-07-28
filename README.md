@@ -16,4 +16,4 @@ npm run start
 
 ## Autores ✒️
 
-* **Matías Moreno Iglesias** - *Trabajo Inicial* - [HoockerMen](https://github.com/HookerMen)
+* **Matías Moreno Iglesias** - *Trabajo Inicial* - [Matias Moreno](https://github.com/MatiMoreno)
